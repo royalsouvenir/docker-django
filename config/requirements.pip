@@ -1,0 +1,10 @@
+Django
+gunicorn
+psycopg2
+boto3
+requests
+sphinx
+djangorestframework
+django-storages
+django-rest-swagger
+django-oauth-toolkit
